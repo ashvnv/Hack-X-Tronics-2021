@@ -11,7 +11,9 @@
 *Solution:* Students can take the help of recorded videos to revise or review the course material. The lectures are captured via camera installed in classrooms which are uploaded on a common server.**
 
 - E-Notice Board & Messaging Bot | [Click here!](https://mplathaneha.wixsite.com/website-2/e-notice-board)
-
+> **To notify students about general information, events or deadlines the faculty has to send the message in several groups manuallly for it to reach everyone.
+*Solution:* A generalized E-notice board with automated notifications can help solve this problem. On the website, the faculty will have access to upload the notice at one place for all. It saves time and takes less effort for the job to be done.
+A Bot which can help Teachers forward important messages to different class groups easily. Messages which are to be forwarded to different class groups are sent to the bot. The bot then forward these messages to the respective groups as instructed by the teacher.  All the messages are logged into Google Sheets which is accessed by the E-Notice Board.**
 
 - Lab Occupancy and Equipment Repository | [Click here!](https://mplathaneha.wixsite.com/website-2/lab-occupancy-inventory)
 > **To know which labs or specialized tools are available for use, one has to walk all the way across the campus which can be very inconvenient.
