@@ -1,1 +1,3 @@
-
+- FCRIT HACK-X-TRONIC 2021 | FCRIT_MSG Telegram Bot
+- This program is not ready for production use
+- Telegram Bot token and webhooks url is removed for security reasons
