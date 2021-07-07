@@ -1,6 +1,8 @@
 ##### Hack-X-Tronics-2021
 
 # Welcome to EaseOnCampus!
+[Visit our website!](https://mplathaneha.wixsite.com/website-2)
+
 
 *Check out all the happenings here at EaseOnCampus. You’ll find out more about our latest programs and what we have coming up in the future. We also provide regular updates and information about our schedule, from class timetables to extracurricular activities. Read more below and check back often to never miss a beat.*
 
