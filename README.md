@@ -27,7 +27,9 @@ Students can use real-time occupancy systems that tell you whether the room is o
 > **Your smartphone running out of charge when your day hasn't even ended can be a big problem as more than all other features that it provides it is most important for safety reasons. So finding a working charging port station could be a task.
 </br></br>*Solution:* Strategically placed charging port stations (both indoor and outdoor) with an indicator map can be used to quickly find out the nearest charging point for your smartphone or any other appliance**
 </br></br>
-- Lost and Found Chatbot | [Click here!](https://mplathaneha.wixsite.com/website-2/lost-found-bot)
+- Lost and Found Chatbot | [Click here!](https://mplathaneha.wixsite.com/website-2/lost-found-bot)</br>
+Refer this github repository for detailed information about the bot</br>
+[Click here!](https://github.com/ashvnv/Lost-And-Found-Bot)
 > **Students or faculty often lose their personal belongings and finding it back in a big campus is not easy.
 </br></br>*Solution:* A lost and found chatbot can be a very smart and advantageous system to collect the lost item. It checks with the database of all the items found in the campus for the user.**
 </br></br>
