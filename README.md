@@ -8,7 +8,7 @@
 - Members: Meryl Jacob, Kalicharan Jalui, Ashwin Vallaban, Meenal Tiwari
 
 
-# Welcome to EaseOnCampus!
+# Welcome to EaseOnCampus! 
 [Visit our website!](https://mplathaneha.wixsite.com/website-2)
 </br></br>
 - Lecture Recording | [Click here!](https://mplathaneha.wixsite.com/website-2/online-courses)
