@@ -1,1 +1,0 @@
-{"Blue Umbrella": [{"name": "Blue Umbrella", "img": "ADDED"}, {"id": 1050339085, "is_bot": false, "first_name": "Ashwin", "username": "ashvnv", "language_code": "en"}]}
