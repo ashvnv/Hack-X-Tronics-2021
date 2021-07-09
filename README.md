@@ -1,10 +1,15 @@
-##### Hack-X-Tronics-2021
+##### Hack-X-Tronics-2021 FCRIT
+
+- Problem Statement - Small Innovative systems for smart campus
+- Title - Ease On Campus
+- Final Score - 81.5/100
+
+- Team Leader -  Neha V.B
+- Members: Meryl Jacob, Kalicharan Jalui, Ashwin Vallaban, Meenal Tiwari
+
 
 # Welcome to EaseOnCampus!
 [Visit our website!](https://mplathaneha.wixsite.com/website-2)
-
-
-*Check out all the happenings here at EaseOnCampus. You’ll find out more about our latest programs and what we have coming up in the future. We also provide regular updates and information about our schedule, from class timetables to extracurricular activities. Read more below and check back often to never miss a beat.*
 </br></br>
 - Lecture Recording | [Click here!](https://mplathaneha.wixsite.com/website-2/online-courses)
 > **Missing out lectures can mean lagging behind in class for the students.
@@ -18,7 +23,7 @@ A Bot which can help Teachers forward important messages to different class grou
 > **To know which labs or specialized tools are available for use, one has to walk all the way across the campus which can be very inconvenient.
 Students can use real-time occupancy systems that tell you whether the room is occupied or not and an excel sheet which shows the availability of equipments thus making the task simpler.**
 </br></br>
-- Charging Stations and Availability
+- Charging Stations and Availability | [Click here!](https://mplathaneha.wixsite.com/website-2/about-3)
 > **Your smartphone running out of charge when your day hasn't even ended can be a big problem as more than all other features that it provides it is most important for safety reasons. So finding a working charging port station could be a task.
 </br></br>*Solution:* Strategically placed charging port stations (both indoor and outdoor) with an indicator map can be used to quickly find out the nearest charging point for your smartphone or any other appliance**
 </br></br>
@@ -34,7 +39,7 @@ Students can use real-time occupancy systems that tell you whether the room is o
 > **The traditional way of ordering food at the canteen by standing in long queues takes a lot of time and is also a restriction in this age of Social Distancing
 </br></br>*Solution:* An online food ordering and payment system that comes with a chatbot, takes your order and tells you when your order is ready to collect can help save time as well as labour.**
 </br></br>
-- Navigation Bot
+- Navigation Bot | [Click here!](https://mplathaneha.wixsite.com/website-2/about-8)
 > **Autonomous Navigation Bot is a mini bot mounted with sensors to guide it's navigation across a pre determined map of the departmental floor plan.
 The idea is to provide a platform for enthusiasts to come forward and learn and experiment their department specific aspects of the bot in the duration of 2 months / per year that the bot is available to a particular department. Thus keeping it in rotation for all department students to explore and understand. The students intrigued by its function can opt to stay after hours to learn it's working in due course of time.
 The Bot will be set to navigate in the department to perform activities such as: delivery amongst the department labs during college hours.**
