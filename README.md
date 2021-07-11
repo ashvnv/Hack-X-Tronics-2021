@@ -17,7 +17,7 @@
 </br></br>
 - E-Notice Board & Messaging Bot | [Click here!](https://mplathaneha.wixsite.com/website-2/e-notice-board)
 </br>Refer this github repository for detailed information about the bot</br>
-[Click here!](https://github.com/ashvnv/Message-Forwarding-Telegram-Bot)
+[Github link](https://github.com/ashvnv/Message-Forwarding-Telegram-Bot)
 > **To notify students about general information, events or deadlines the faculty has to send the message in several groups manuallly for it to reach everyone.</br></br>*Solution:* A generalized E-notice board with automated notifications can help solve this problem. On the website, the faculty will have access to upload the notice at one place for all. It saves time and takes less effort for the job to be done.</br>
 A Bot which can help Teachers forward important messages to different class groups easily. Messages which are to be forwarded to different class groups are sent to the bot. The bot then forward these messages to the respective groups as instructed by the teacher.  All the messages are logged into Google Sheets which is accessed by the E-Notice Board.**
 </br></br>
@@ -31,7 +31,7 @@ Students can use real-time occupancy systems that tell you whether the room is o
 </br></br>
 - Lost and Found Chatbot | [Click here!](https://mplathaneha.wixsite.com/website-2/lost-found-bot)</br>
 Refer this github repository for detailed information about the bot</br>
-[Click here!](https://github.com/ashvnv/Lost-And-Found-Bot)
+[Github link](https://github.com/ashvnv/Lost-And-Found-Bot)
 > **Students or faculty often lose their personal belongings and finding it back in a big campus is not easy.
 </br></br>*Solution:* A lost and found chatbot can be a very smart and advantageous system to collect the lost item. It checks with the database of all the items found in the campus for the user.**
 </br></br>
